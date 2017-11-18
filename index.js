@@ -1,7 +1,7 @@
 function (year, color, model) {
-  this.year
-  this.color
-  this.model
+  return this.year
+  return this.color
+  return this.model
 }
 
 
