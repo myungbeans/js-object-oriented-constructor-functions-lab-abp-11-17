@@ -1,3 +1,23 @@
+function (year, color, model) {
+  this.year
+  this.color
+  this.model
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // function Scooter(year, color, model){
